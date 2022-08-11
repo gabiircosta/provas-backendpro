@@ -1,0 +1,11 @@
+1 - Crie um método que receba uma lista de números e retorne de forma ordenada (crescente);
+
+2 - Crie um método que receba uma lista de strings e retorne de forma ordenada (decrescente);
+
+3 - Crie um método que receba um número positivo e calcule o seu fatorial;
+
+4 - Crie um método que receba um número e devolva a tabuada montada (do 1 ao 10);
+
+5 - Crie um método que receba um número e devolva o respectivo dia da semana;
+(Ex.: 1- Domingo, 2- Segunda, 3- Terça...);
+Caso o número não represente um dia da semana, retornar uma mensagem "Valor Inválido".
